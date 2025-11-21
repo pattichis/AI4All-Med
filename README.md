@@ -1,7 +1,8 @@
 # AI4All-Med
 AI4All-Med contains tutorials for introducing AI models for medicine using Python.
-## Sessions
+🔴 **Important:** Right-click on each link to open in a new browser window.
 
+## Sessions
 ### Session 1. An Introduction to AI for All in Medicine
 [Session 1.1 Introduction to Variables and Strings](Session_1_1_Intro_Variables_Strings_Modules.ipynb)<br>
 [Session 1.2 Working with AI](Session_1_2_Working_with_AI.ipynb)<br>
