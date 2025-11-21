@@ -9,4 +9,5 @@ AI4All-Med contains tutorials for introducing AI models for medicine using Pytho
 **10 Minutes Break** <br>
 [Session 1.4 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb)<br>
 [Session 1.5 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we)<br>
-[Session 1.6 AI in Medical Imaging](https://github.com/pattichis/AIM)<br>
+[Session 1.6 AI Models and Datasets for Medical Imaging and Multimodal Analysis](https://github.com/pattichis/AIM)<br>
+
