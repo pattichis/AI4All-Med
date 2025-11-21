@@ -1,6 +1,6 @@
 # AI4All-Med
-AI4All-Med contains tutorials for introducing AI models for medicine using Python.
-🔴 **Important:** Right-click on each link to open in a new browser window.
+AI4All-Med contains tutorials for introducing AI models for medicine using Python.<br>
+🔴 **Important:** Right-click on each link to open in a new browser window.<br>
 
 ## Sessions
 ### Session 1. An Introduction to AI for All in Medicine
