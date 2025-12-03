@@ -15,8 +15,8 @@ Group building activity<br>
 [Session 1.3 BiomedGPT-HF-Example](https://colab.research.google.com/drive/1AMG-OwmDpnu24a9ZvCNvZi3BZwb3nSfS?usp=sharing#scrollTo=nEQJH5MoT-we) (everyone, 15 minutes)<br>
 [Session 1.4 AI Models and Datasets for Medical Imaging and Multimodal Analysis](https://github.com/pattichis/AIM) (everyone, 5 minutes)<br>
 #### Background material for learning to code in Python
-[Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (breakout rooms, 30 minutes)<br>
-[Session 1.6 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb) (breakout rooms, 30 minutes)<br>
+[Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
+[Session 1.6 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb) (60 minutes max for self study)<br>
 
 ### Session 2: Foundations of Machine Learning and Neural Networks I (December 5, 2025)
 * An introduction to neural networks, K-NN, classifiers, and clustering algorithms
