@@ -16,4 +16,20 @@ Place the windows side-by-side to continue with the instructions.
 5. Can you see the training and testing loss graphs getting reduced?
 6. Did the colors get corrected? How do you know?
 
+# What to observe during training (after you click play):
+1. Hover over each neuron (do not click on it). Look at the output.
+2. Watch the train loss and test loss curves. What are the minimum values?
+3. Watch the output colors evolve over time. What is the relationship to the plotted points?
+4. Look  
 
+# Train on X1 only
+1. Click on any input to select or deselect it.
+2. Make sure no connections are leaving any other input.
+3. Train on X1 alone.
+4. Why did this not work?
+5. Can you think of the clinical implications of using the wrong variable in a real-world example?
+
+
+# Suggested experiments for concentric dataset (upper-left)
+1. Reduce the ratio of training to test data and run the play button to retrain. What happens as the ratio gets reduced? What happens when it gets increased?
+2.  Wha
