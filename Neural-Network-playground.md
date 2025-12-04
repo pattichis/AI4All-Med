@@ -19,10 +19,12 @@ Place the windows side-by-side to continue with the instructions.
 
 # What to observe during training (after you click play):
 1. Neuron outputs: Hover over each neuron (do not click on it). Look at the output. What is the relationship between the input features and the output?
-2. Training versus testing losses: Watch the train loss and test loss curves. What are the minimum values? What is the distance between them? You want both of them low. Overfitting: Test loss is high. Train loss is low. Reduce the network. Underfitting: High losses. Enlarge the network.
-3. Watch the output colors evolve over time. This is what the neural network is learning. What is the relationship to the plotted points?
-4. Click on "Show test data" on the lower-right. What is the relationship between the training and testing datasets? Are they representative of each other?
-5. Click and unclick on "Show test data". The correct output is presented for Noise=0. The small dots represent the training data. The large dots represent the testing data. 
+2. Connection thickness refers to the weight strength.
+3. Note that the output plot represents the output from the final neuron. 
+4. Training versus testing losses: Watch the train loss and test loss curves. What are the minimum values? What is the distance between them? You want both of them low. Overfitting: Test loss is high. Train loss is low. Reduce the network. Underfitting: High losses. Enlarge the network.
+5. Watch the output colors evolve over time. This is what the neural network is learning. What is the relationship to the plotted points?
+6. Click on "Show test data" on the lower-right. What is the relationship between the training and testing datasets? Are they representative of each other?
+7. Click and unclick on "Show test data". The correct output is presented for Noise=0. The small dots represent the training data. The large dots represent the testing data. 
  
 # Train on X1 only
 1. Click on any input to select or deselect it.
@@ -33,5 +35,8 @@ Place the windows side-by-side to continue with the instructions.
 
 
 # Suggested experiments for concentric dataset (upper-left)
-1. Reduce the ratio of training to test data and run the play button to retrain. What happens as the ratio gets reduced? What happens when it gets increased?
+1. Maximize the number of layers and the number of neurons in each layer. Why is this overfitting?
+2. Minimize the number of layers and the number of neurons in each layer. Why is this underfitting?
+
+Reduce the ratio of training to test data and run the play button to retrain. What happens as the ratio gets reduced? What happens when it gets increased?
 2.  Wha
