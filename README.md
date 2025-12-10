@@ -28,9 +28,9 @@ Group building activity<br>
 * Review of all activities using the iPad.
 * [3.1. The linear layer](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_1_Linear_Layer.ipynb)
 * [3.2. An introduction to convolution using tensors](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_2_tensors_and_convolution_simplified.ipynb)
-* Activation functions
-* Max pooling
-* Loss functions
+* [3.3. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
+* [3.4. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
+* [3.5. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
 * Models
 
 ### Session 4: Natural Language Processing and Computer Vision Using Transformers (December 19, 2025)
