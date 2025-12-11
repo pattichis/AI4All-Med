@@ -31,8 +31,9 @@ Group building activity<br>
 * [3.3. Activation functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_3_Activation_Functions.ipynb)
 * [3.4. Max pooling](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_4_Max_Pooling.ipynb)
 * [3.5. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
-* [3.6. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb)
-* Sebastian demonstration
+* Formulate questions for your groups!
+* [3.6. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
+* Sebastian demonstration (20 minutes, requires Gemini account).
 
 ### Session 4: Natural Language Processing and Computer Vision Using Transformers (December 19, 2025)
 * Words and Tokens
