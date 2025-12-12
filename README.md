@@ -33,7 +33,7 @@ Group building activity<br>
 * [3.5. Loss functions](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_5_Loss_functions.ipynb)
 * Formulate questions for your groups!
 * [3.6. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
-* Sebastian demonstration (20 minutes, requires Gemini account).
+* [Video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (20 minutes, requires Google Cloud account).
 
 ### Session 4: Natural Language Processing and Computer Vision Using Transformers (December 19, 2025)
 * Words and Tokens
