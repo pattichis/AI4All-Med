@@ -44,4 +44,5 @@ Group building activity<br>
 [Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
 [Session 1.6 Loops, conditionals, and sequential thinking](Session_1_4_Loops_conditionals_sequential_thinking.ipynb) (60 minutes max for self study)<br>
 
-
+#### High Performance Libraries with GPU Acceleration (Machine Learning algorithms, but not for Neural Nets)
+* [RAPIDS libraries](https://colab.research.google.com/github/rapidsai-community/showcase/blob/main/getting_started_tutorials/rapids-pip-colab-template.ipynb?ncid=so-othe-933049-vt27)
