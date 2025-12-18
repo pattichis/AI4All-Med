@@ -37,7 +37,7 @@ Group building activity<br>
     - Words and Tokens
     - Large Language Models & Transformers
     - Using (Pre)-Trained LLMs
-* [4.1 Prompt Engineering experiments]()
+* [4.1 Prompt Engineering experiments](https://github.com/rpattichis/AI4All-Med/blob/main/Session_4_1_Prompt_Engineering.ipynb)
 * Natural Language Processing in Medicine
 
 #### Background material for learning to code in Python
