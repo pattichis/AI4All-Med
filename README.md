@@ -33,12 +33,12 @@ Group building activity<br>
 * [Video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (20 minutes, requires Google Cloud account).
 
 ### Session 4: Natural Language Processing and Computer Vision Using Transformers (December 19, 2025)
-* Words and Tokens
-* N-gram Language Models
-* Large Language Models
-* Transformers
+* Draft Presentation: [AI4All-Med LLM Tutorial](https://docs.google.com/presentation/d/1HW0LdAc-qSF5za5Lyay201jB3sUM4PZs1agD8Wn2cUA/edit?usp=sharing)
+    - Words and Tokens
+    - Large Language Models & Transformers
+    - Using (Pre)-Trained LLMs
+* [4.1 Prompt Engineering experiments]()
 * Natural Language Processing in Medicine
-* Computer Vision Using Transformers in Medicine
 
 #### Background material for learning to code in Python
 [Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
