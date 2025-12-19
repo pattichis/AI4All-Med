@@ -33,12 +33,13 @@ Group building activity<br>
 * [Video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (20 minutes, requires Google Cloud account).
 
 ### Session 4: Natural Language Processing Using Transformers (December 19, 2025)
-* Presentation: [AI4All-Med LLM Tutorial](https://docs.google.com/presentation/d/1HW0LdAc-qSF5za5Lyay201jB3sUM4PZs1agD8Wn2cUA/edit?usp=sharing)
+* Presentation: [AI4All-Med LLM Tutorial](https://docs.google.com/presentation/d/1HW0LdAc-qSF5za5Lyay201jB3sUM4PZs1agD8Wn2cUA/edit?usp=sharing) (15-20 minutes)
     - Words and Tokens
     - Large Language Models & Transformers
     - Using (Pre)-Trained LLMs
-* [4.1 Tokenizer Intro](https://colab.research.google.com/drive/1On-9_5LEUfJbNd3RNKE723sCWZRJeB7F?usp=sharing)
-* [4.2 Prompt Engineering with Medichat-Llama3-8B](https://colab.research.google.com/drive/1Wv2ilUmORCtWcbmPLk2rwVs3BrnaUpE0?usp=sharing)
+* [4.1 Tokenizer Intro](https://colab.research.google.com/drive/1On-9_5LEUfJbNd3RNKE723sCWZRJeB7F?usp=sharing) (breakout room = 15 minutes).
+* [4.2 Prompt Engineering with Medichat-Llama3-8B](https://colab.research.google.com/drive/1Wv2ilUmORCtWcbmPLk2rwVs3BrnaUpE0?usp=sharing) (breakout room = 15 minutes).
+* [Review prompt in video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (5 minutes, requires Google Cloud account).
 
 #### Background material for learning to code in Python
 [Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
