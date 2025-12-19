@@ -38,7 +38,7 @@ Group building activity<br>
     - Large Language Models & Transformers
     - Using (Pre)-Trained LLMs
 * [4.1 Tokenizer Intro](https://colab.research.google.com/drive/1On-9_5LEUfJbNd3RNKE723sCWZRJeB7F?usp=sharing)
-* 4.2 Prompt Engineering with Medichat-Llama3-8B
+* [4.2 Prompt Engineering with Medichat-Llama3-8B](https://colab.research.google.com/drive/1Wv2ilUmORCtWcbmPLk2rwVs3BrnaUpE0?usp=sharing)
 
 #### Background material for learning to code in Python
 [Session 1.5 Number Guessing Game](Session_1_3_Number_Guessing_Game.ipynb) (60 minutes max for self-study)<br>
