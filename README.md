@@ -38,7 +38,7 @@ Group building activity<br>
     - Large Language Models & Transformers
     - Using (Pre)-Trained LLMs
 * [4.1 Tokenizer Intro](https://colab.research.google.com/drive/1On-9_5LEUfJbNd3RNKE723sCWZRJeB7F?usp=sharing) (breakout room = 15 minutes).
-* [4.2 Prompt Engineering with Medichat-Llama3-8B](https://colab.research.google.com/drive/1Wv2ilUmORCtWcbmPLk2rwVs3BrnaUpE0?usp=sharing) (breakout room = 15 minutes).
+* [4.2 Prompt Engineering with Medichat-Llama3-8B](https://github.com/pattichis/AI4All-Med/blob/main/Session_4_2_Medichat_Example.ipynb) (breakout room = 15 minutes).
 * [Review prompt in video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (5 minutes, requires Google Cloud account).
 
 #### Background material for learning to code in Python
