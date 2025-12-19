@@ -32,7 +32,7 @@ Group building activity<br>
 * [3.6. Models](https://github.com/pattichis/AI4All-Med/blob/main/Session_3_6_models.ipynb) (40 minutes)
 * [Video summarization example using Whisper and Gemini](https://github.com/pattichis/AI4All-Med/blob/main/GEMINI_Example_Notebook.ipynb) (20 minutes, requires Google Cloud account).
 
-### Session 4: Natural Language Processing and Computer Vision Using Transformers (December 19, 2025)
+### Session 4: Natural Language Processing Using Transformers (December 19, 2025)
 * Presentation: [AI4All-Med LLM Tutorial](https://docs.google.com/presentation/d/1HW0LdAc-qSF5za5Lyay201jB3sUM4PZs1agD8Wn2cUA/edit?usp=sharing)
     - Words and Tokens
     - Large Language Models & Transformers
